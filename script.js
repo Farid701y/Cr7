@@ -1,4 +1,4 @@
-const correctPassword = '0110';
+const correctPassword = '1987';
 let input = '';
 
 function enterDigit(digit) {
